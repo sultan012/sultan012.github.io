@@ -1,0 +1,93 @@
+body {
+    background-color: beige
+}
+
+.header {
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    color: white;
+    font-family: 'Chango', cursive;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 10px ;
+}
+.header a {
+    margin: 10px;
+}
+.left {
+    background-color: darkcyan;
+    height: 80vh;
+    width: 20%;
+    float: left;
+}
+
+.content {
+    background-color: beige;
+    height: 80vh;
+    width: 60%;
+    float: left;
+}
+.content h3{
+    font-family: 'Kalam', cursive;
+}
+.content p{
+    font-family: 'Handlee', cursive;
+}
+.right {
+    background-color: darkcyan;
+    height: 80vh;
+    width: 20%;
+    float: right;
+}
+.right table, td, th {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    background-color: aquamarine;
+    margin: 10px;
+    }
+
+th {
+    text-align: left;
+
+}
+
+.footer {
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    clear: both;
+    text-align: center;
+    color:white;
+    padding-top: 10px;
+    
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.left ul {
+    background-color: beige;
+    margin: 10px;
+    list-style: none;
+    padding: 10px;
+    font-family: 'Kalam', cursive;
+    font-weight: bold;
+    }
+
+ .left li a {display: block;
+   padding: 10px;
+   }
+
+.left li a:hover {
+    background-color: aqua;
+}
+
+/* li*/
