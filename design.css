@@ -33,10 +33,12 @@ body {
     font-family: 'Kalam', cursive;
     padding-left: 20px;
     padding-top: 150px;
+    text-decoration: underline;
 }
 .content p{
     font-family: 'Handlee', cursive;
 }
+
 .right a {
     background-color: darkcyan;
     height: 80vh;
@@ -51,15 +53,18 @@ body {
     padding-top: 20px;
 }
 
-table {
+.content table {
     border-collapse: collapse;
     width: 97%;
     background-color:aliceblue ;
     margin: 10px;
     }
 
-th {
+.content th, td {
+    padding-bottom: 14px;
     text-align: left;
+    font-weight: bold;
+    font-size: large;
 }
 
 .footer {
