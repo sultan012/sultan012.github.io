@@ -37,16 +37,18 @@ body {
 .content p{
     font-family: 'Handlee', cursive;
 }
-.right {
+.right a {
     background-color: darkcyan;
     height: 80vh;
     width: 20%;
     float: right;
-}
-.right table, td, th {
+    color: white;
+    font-size: x-large;
+    text-align: center;
     font-weight: bold;
-    padding: 5px;
-    font-size: 20px;
+}
+.right a{
+    padding-top: 20px;
 }
 
 table {
