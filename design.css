@@ -45,7 +45,7 @@ body {
     width: 20%;
     float: right;
     color: white;
-    font-size: x-large;
+    font-size: 40px;
     text-align: center;
     font-weight: bold;
 }
@@ -118,4 +118,14 @@ img {
 
 }
 
-/* li*/
+.left ul span{
+    padding-left: 15px;
+    color: black;
+}
+.fa {
+    font-size: 30px;
+    color:red;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
