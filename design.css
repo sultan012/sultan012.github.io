@@ -120,8 +120,7 @@ img {
 
 .left ul span{
     padding-left: 15px;
-    color: black;
-}
+   }
 .fa {
     font-size: 30px;
     color:red;
@@ -131,4 +130,7 @@ img {
 
 .page{
     color: red;
+}
+.code{
+    color: black;
 }
